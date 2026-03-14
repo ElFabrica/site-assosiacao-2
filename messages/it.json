@@ -1,0 +1,734 @@
+{
+  "HomePage": {
+    "nav": {
+      "home": "Home",
+      "about": "Chi siamo",
+      "culture": "Cultura",
+      "courses": "Formazione",
+      "support": "Supporto Sociale",
+      "networking": "Networking",
+      "partners": "Parceiros",
+      "assistance": "Assistenza",
+      "news": "Notizie",
+      "button": "Diventa socio"
+    },
+    "hero": {
+      "location": "San Paolo – SP",
+      "title": "Associazione di Promozione Interculturale Italo-Brasiliana",
+      "subtitle": "Anita e Giuseppe Garibaldi",
+      "description": "Promuovendo lo sviluppo umano, sociale e istituzionale attraverso la valorizzazione della cultura italo-brasiliana",
+      "button": "Diventa socio",
+      "readMore": "Scopri di più",
+      "blocks": {
+        "culture": {
+          "label": "Cultura",
+          "description": "Eventi culturali, manifestazioni e tradizioni"
+        },
+        "courses": {
+          "label": "Formazione",
+          "description": "Corsi di lingua italiana e percorsi di storia e cultura"
+        },
+        "community": {
+          "label": "Comunità",
+          "description": "Supporto sociale, inclusione e integrazione"
+        },
+        "networking": {
+          "label": "Consulenza",
+          "description": "Connettere imprenditori e professionisti"
+        }
+      }
+    },
+    "newsPreview": {
+      "badge": "Notizie",
+      "title": "Ultime Notizie",
+      "description": "Scopri cosa sta succedendo nella nostra associazione",
+      "seeAll": "Tutte le notizie",
+      "readMore": "Leggi di più"
+    },
+    "eventsPreview": {
+      "badge": "Calendario",
+      "title": "Eventi",
+      "seeAll": "Vedi tutti"
+    },
+    "mission": {
+      "title": "Il Nostro Scopo",
+      "subtitle": "Uniti dalla cultura e dalla tradizione italo-brasiliana, lavoriamo per rafforzare i legami e costruire ponti tra le comunità.",
+      "items": {
+        "mission": {
+          "title": "Missione",
+          "description": "Promuovere lo sviluppo umano, sociale e istituzionale dei propri associati e della comunità, attraverso azioni organizzate, partecipative e orientate al bene comune."
+        },
+        "vision": {
+          "title": "Visione",
+          "description": "Essere un’istituzione di riferimento nel proprio ambito di attività, riconosciuta per credibilità, efficienza, impatto sociale e impegno per lo sviluppo sostenibile."
+        },
+        "values": {
+          "title": "Valori",
+          "description": "Etica e integrità, responsabilità sociale, rispetto della diversità, partecipazione e cooperazione, trasparenza e impegno per la qualità."
+        }
+      }
+    },
+    "services": {
+      "badge": "I Nostri Servizi",
+      "title": "Cosa offriamo",
+      "description": "L’Associazione realizza iniziative culturali, formative e sociali finalizzate al rafforzamento della comunità italo-brasiliana, alla promozione dello scambio culturale e alla diffusione dei valori di cittadinanza attiva.",
+      "readMore": "Scopri di più",
+      "items": {
+        "culture": {
+          "title": "Cultura, Tradizione e Identità",
+          "description": "Feste tipiche, cinema italiano, gastronomia, musica e gruppi regionali."
+        },
+        "education": {
+          "title": "Corsi ed Educazione",
+          "description": "Corsi di italiano dal livello base all'avanzato, preparazione per CELI e CILS."
+        },
+        "support": {
+          "title": "Supporto Sociale e Comunitario",
+          "description": "Supporto ai nuovi arrivati italiani e orientamento sui servizi consolari."
+        },
+        "networking": {
+          "title": "Networking e Affari",
+          "description": "Networking per imprenditori e collegamento tra Brasile e Italia."
+        },
+        "legal": {
+          "title": "Area Legale e Informativa",
+          "description": "Orientamento sulla cittadinanza italiana, immigrazione e diritto di famiglia."
+        }
+      }
+    },
+    "cta": {
+      "title": "Entra a far parte della nostra comunità",
+      "description": "Unisciti a noi per rafforzare i legami tra la cultura italiana e quella brasiliana. Diventa socio dell’AICIB Anita e Giuseppe Garibaldi e accedi a eventi esclusivi, corsi di lingua italiana e a una solida rete di supporto comunitario.",
+      "primaryAction": "Associati ora",
+      "secondaryAction": "Scopri di più",
+      "cards": {
+        "community": {
+          "title": "Comunità",
+          "description": "Entra a far parte di una rete di discendenti e ammiratori della cultura italiana"
+        },
+        "support": {
+          "title": "Supporto",
+          "description": "Assistenza per questioni consolari, legali e di integrazione"
+        },
+        "connections": {
+          "title": "Connessioni",
+          "description": "Networking con imprenditori e professionisti"
+        },
+        "newsletter": {
+          "title": "Newsletter",
+          "description": "Ricevi le ultime notizie e eventi della nostra comunità"
+        }
+      }
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "title": "Chi siamo",
+      "subtitle": "Scopri la nostra storia, missione e i valori che guidano il nostro impegno verso la comunità italo-brasiliana."
+    },
+
+    "institution": {
+      "title": "La nostra Associazione",
+      "paragraphs": [
+        "",
+        "L’Associazione di Promozione Interculturale Italo-Brasiliana Anita e Giuseppe Garibaldi – SP",
+        "è un ente senza scopo di lucro che promuove la cultura, la lingua, la storia e l’integrazione italo-brasiliana.",
+        "Situata nel cuore di San Paolo, in Avenida São João, la nostra sede è un punto d’incontro per discendenti italiani, studenti della lingua e tutti gli interessati alla ricca cultura italiana.",
+        "Operiamo in modo responsabile e trasparente, incentivando la cooperazione, il rafforzamento dei legami e la valorizzazione della conoscenza, della cittadinanza e dell’inclusione sociale."
+      ],
+      "cnpjLabel": "CNPJ"
+    },
+    "president": {
+      "title": "Presidente",
+      "paragraphs": [
+        "Antonio Pedro Lovato",
+        " è autore del libro Speranza di un Bambino (2025) ed è un italo-brasiliano abitante a Mauá, nello Stato di San Paolo. ",
+        "Avvocato con una carriera solida e diversificata nel campo giuridico e nella gestione pubblica, ha costruito il proprio percorso unendo competenza tecnica, sensibilità sociale e impegno per il bene comune.",
+        "In qualità di presidente dell’Associazione di Promozione Interculturale Italo-Brasiliana Anita e Giuseppe Garibaldi – SP, si dedica al rafforzamento dei legami tra Brasile e Italia, operando attivamente a favore della comunità italiana e italo-brasiliana presente nel territorio paulistano.",
+        "La sua azione è segnata dal dialogo interculturale, dalla valorizzazione della memoria, della cittadinanza e dalla convinzione che la cultura sia uno strumento di trasformazione sociale."
+      ]
+    },
+
+    "mission": {
+      "title": "Missione",
+      "text": "L’Associazione ha come missione la promozione dello sviluppo umano, sociale e istituzionale dei propri associati e della comunità attraverso azioni organizzate, partecipative e orientate al bene collettivo."
+    },
+
+    "vision": {
+      "title": "Visione",
+      "text": "L’Associazione aspira a diventare un’istituzione di riferimento nel proprio ambito, riconosciuta per credibilità, efficienza e impatto sociale."
+    },
+
+    "values": {
+      "title": "Valori",
+      "subtitle": "Principi che guidano la nostra condotta istituzionale",
+      "items": [
+        {
+          "title": "Etica e Integrità",
+          "description": "Operato fondato sull’onestà, la trasparenza e il rispetto delle norme."
+        },
+        {
+          "title": "Responsabilità Sociale",
+          "description": "Impegno verso l’impatto positivo delle nostre azioni."
+        },
+        {
+          "title": "Rispetto della Diversità",
+          "description": "Valorizzazione delle differenze e promozione dell’inclusione."
+        },
+        {
+          "title": "Partecipazione e Cooperazione",
+          "description": "Incentivazione al coinvolgimento e al lavoro collettivo."
+        },
+        {
+          "title": "Trasparenza",
+          "description": "Chiarezza nella comunicazione e nella rendicontazione."
+        },
+        {
+          "title": "Impegno per la Qualità",
+          "description": "Ricerca continua del miglioramento dei processi."
+        },
+        {
+          "title": "Sostenibilità",
+          "description": "Pratiche che garantiscono la continuità dell’Associazione."
+        },
+        {
+          "title": "Sviluppo Sostenibile",
+          "description": "Uso responsabile delle risorse disponibili."
+        }
+      ]
+    },
+
+    "garibaldi": {
+      "title": "Anita e Giuseppe Garibaldi",
+      "subtitle": "Eroi della Libertà",
+      "giuseppe": {
+        "title": "Giuseppe Garibaldi (1807–1882)",
+        "text": "Nato a Nizza, Giuseppe si coinvolse fin da giovane nei movimenti rivoluzionari che sostenevano l’unificazione italiana e l’instaurazione di regimi repubblicani. Perseguitato politicamente, trovò rifugio in Sud America, dove partecipò alle lotte repubblicane in Brasile e Uruguay. Il suo nome rimase definitivamente legato alla causa della libertà e dell’unità nazionale italiana, come uno dei principali leader del Risorgimento."
+      },
+      "anita": {
+        "title": "Anita Garibaldi (1821–1849)",
+        "text": "Nata Ana Maria de Jesus Ribeiro a Laguna, nello stato di Santa Catarina, si distinse per la sua forte personalità e lo spirito indipendente. L’incontro con Giuseppe avvenne nel 1839, durante la Rivoluzione Farroupilha. Anita non fu soltanto una compagna, ma anche una combattente attiva, partecipando a scontri armati e dimostrando un coraggio straordinario. È considerata un’eroina sia in Brasile che in Italia, simbolo di coraggio femminile e di lotta per la libertà."
+      },
+      "quote": "La storia di Anita e Giuseppe Garibaldi rimane viva come esempio di amore unito all’ideale rivoluzionario. Insieme rappresentano l’unione tra impegno politico e coraggio personale, ispirando generazioni nella difesa della libertà, della giustizia e della dignità umana."
+    }
+  },
+  "culturePage": {
+    "hero": {
+      "title": "Cultura, Tradizione e Identità",
+      "subtitle": "Preserviamo e celebriamo le tradizioni italo-brasiliane attraverso eventi, feste e iniziative culturali"
+    },
+    "activities": {
+      "title": "Le Nostre Attività Culturali",
+      "subtitle": "Diverse iniziative per mantenere viva la cultura italiana",
+      "categories": {
+        "festas": {
+          "title": "Feste Tradizionali",
+          "description": "Celebrazioni tradizionali italiane che mantengono vive le memorie e le usanze degli antenati."
+        },
+        "cinema": {
+          "title": "Cinema Italiano",
+          "description": "Proiezioni di film classici e contemporanei che raccontano la ricchezza culturale italiana."
+        },
+        "gastronomia": {
+          "title": "Gastronomia",
+          "description": "Workshop, degustazioni ed eventi che celebrano la cucina tradizionale italiana."
+        },
+        "musica": {
+          "title": "Musica e Canto",
+          "description": "Esibizioni musicali, cori ed eventi che preservano la tradizione musicale italiana."
+        },
+        "tradicoes": {
+          "title": "Tradizioni Regionali",
+          "description": "Gruppi di convivialità delle regioni: Calabria, Sicilia, Veneto, Lombardia e altre."
+        },
+        "historia": {
+          "title": "Recupero Storico",
+          "description": "Preservazione della storia delle famiglie italiane in Brasile e dei loro contributi."
+        }
+      }
+    },
+    "events": {
+      "title": "Calendario degli Eventi",
+      "subtitle": "Scopri i nostri prossimi eventi e partecipa",
+      "empty": {
+        "title": "Nessun evento programmato",
+        "description": "Presto pubblicheremo il nostro calendario di eventi"
+      }
+    }
+  },
+  "coursesPage": {
+    "hero": {
+      "title": "Corsi ed Educazione",
+      "subtitle": "Impara l’italiano e approfondisci la cultura e la storia d’Italia con i nostri corsi specializzati"
+    },
+    "courseTypes": {
+      "title": "I Nostri Corsi",
+      "subtitle": "Opzioni per tutti i livelli e interessi",
+      "items": {
+        "italiano": {
+          "title": "Corsi di Italiano",
+          "description": "Dal livello base all’avanzato, impara la lingua italiana con insegnanti qualificati.",
+          "levels": ["Base", "Intermedio", "Avanzato"]
+        },
+        "viagem": {
+          "title": "Italiano per Viaggio",
+          "description": "Corso pratico per chi desidera viaggiare in Italia con sicurezza.",
+          "features": [
+            "Conversazione",
+            "Situazioni quotidiane",
+            "Cultura locale"
+          ]
+        },
+        "certificacao": {
+          "title": "Preparazione CELI/CILS",
+          "description": "Preparazione completa agli esami di certificazione riconosciuti a livello internazionale.",
+          "features": [
+            "Simulazioni",
+            "Materiale specifico",
+            "Supporto individuale"
+          ]
+        },
+        "historia": {
+          "title": "Storia e Cultura",
+          "description": "Lezioni sulla storia d’Italia e il suo ricco patrimonio culturale.",
+          "features": ["Arte", "Letteratura", "Civiltà"]
+        },
+        "palestras": {
+          "title": "Conferenze Educative",
+          "description": "Conferenze tematiche per giovani e adulti italo-brasiliani.",
+          "features": ["Identità culturale", "Genealogia", "Cittadinanza"]
+        }
+      }
+    },
+    "availableCourses": {
+      "title": "Classi Aperte",
+      "subtitle": "Scopri le prossime classi disponibili"
+    },
+    "cta": {
+      "title": "Interessato ai nostri corsi?",
+      "description": "Contattaci per maggiori informazioni su iscrizioni e orari disponibili."
+    }
+  },
+  "SelectLang": {
+    "pt": "Portoghese",
+    "en": "Inglese",
+    "fr": "Francese",
+    "es": "Spagnolo",
+    "it": "Italiano"
+  },
+  "Footer": {
+    "description": "Promuovendo lo sviluppo umano, sociale e istituzionale dei propri associati e della comunità attraverso azioni organizzate, partecipative e orientate al bene collettivo.",
+    "quickLinks": {
+      "title": "Link Rapidi",
+      "items": {
+        "home": "Home",
+        "about": "Chi siamo",
+        "culture": "Cultura e Tradizione",
+        "news": "Notizie",
+        "join": "Diventa socio",
+        "policies": "Politiche"
+      }
+    },
+    "contact": {
+      "title": "Contatti",
+      "address": "Av. São João, 313 - Ed. Seguradoras\nCentro - São Paulo/SP"
+    },
+    "bottom": {
+      "rights": "Associazione Anita e Giuseppe Garibaldi - SP. Tutti i diritti riservati.",
+      "cnpj": "CNPJ: 03.161.879/0001-41"
+    }
+  },
+  "SupportPage": {
+    "hero": {
+      "title": "Supporto ai Nuovi Arrivati",
+      "description": "Offriamo supporto e orientamento alla comunità italo-brasiliana, aiutando nell'integrazione e rafforzando i legami comunitari"
+    },
+    "services": {
+      "newcomers": {
+        "title": "Supporto ai Nuovi Arrivati",
+        "description": "Supporto completo per gli italiani appena arrivati in Brasile e per gli italo-brasiliani che hanno bisogno di orientamento.",
+        "items": [
+          "Orientamento iniziale",
+          "Adattamento culturale",
+          "Informazioni pratiche sul Brasile"
+        ]
+      },
+      "consular": {
+        "title": "Orientamento Consolare",
+        "description": "Informazioni sui servizi consolari italiani.",
+        "items": [
+          "Visti e passaporti",
+          "Legalizzazione documenti",
+          "Procedure consolari",
+          "Appuntamenti"
+        ]
+      },
+      "integration": {
+        "title": "Integrazione Comunitaria",
+        "description": "Aiutiamo nell'integrazione degli italo-brasiliani con le comunità italiane locali.",
+        "items": [
+          "Connessione con gruppi regionali",
+          "Eventi di integrazione",
+          "Attività comunitarie"
+        ]
+      },
+      "networking": {
+        "title": "Rete di Contatti",
+        "description": "Rete di supporto per lavoro, casa e sostegno familiare.",
+        "items": [
+          "Opportunità di lavoro",
+          "Indicazioni per l'alloggio",
+          "Supporto familiare",
+          "Networking professionale"
+        ]
+      }
+    },
+    "contact": {
+      "title": "Come Possiamo Aiutare",
+      "subtitle": "Il nostro team è pronto ad orientarti nelle tue necessità",
+      "headquarters": "La Nostra Sede",
+      "address": "Av. São João, 313 - Ed. Seguradoras\nCentro - São Paulo/SP",
+      "social": "Social Network"
+    }
+  },
+  "NetworkingPage": {
+    "hero": {
+      "title": "Networking & Affari",
+      "description": "Connettere imprenditori e professionisti italo-brasiliani, rafforzando le relazioni commerciali tra Brasile e Italia"
+    },
+    "business": {
+      "title": "Opportunità di Business",
+      "subtitle": "Facilitiamo le connessioni commerciali e supportiamo gli imprenditori",
+      "services": {
+        "networking": {
+          "title": "Incontri di Networking",
+          "description": "Eventi regolari per imprenditori italo-brasiliani per connettersi e scambiare esperienze."
+        },
+        "import": {
+          "title": "Importazione di Prodotti",
+          "description": "Supporto per chi desidera importare prodotti italiani o avviare affari con l'Italia."
+        },
+        "corporate": {
+          "title": "Eventi Aziendali",
+          "description": "Eventi per connettere imprenditori brasiliani e italiani, promuovendo partnership commerciali."
+        },
+        "partnerships": {
+          "title": "Partnership Strategiche",
+          "description": "Facilitiamo le connessioni tra aziende brasiliane e italiane per affari bilaterali."
+        }
+      }
+    },
+    "academic": {
+      "title": "Collaborazioni Universitarie",
+      "subtitle": "Supporto accademico per studenti italo-brasiliani",
+      "services": {
+        "study": {
+          "title": "Studiare in Italia",
+          "description": "Assistenza per studenti italo-brasiliani che desiderano studiare in Italia.",
+          "items": [
+            "Orientamento sui processi",
+            "Documentazione necessaria",
+            "Scelta delle istituzioni"
+          ]
+        },
+        "diploma": {
+          "title": "Equivalenza dei Titoli",
+          "description": "Orientamento sull'equivalenza dei titoli e opportunità di borse di studio.",
+          "items": [
+            "Processo di riconoscimento",
+            "Borse di studio",
+            "Programmi di scambio"
+          ]
+        },
+        "partnerships": {
+          "title": "Partnership Universitarie",
+          "description": "Partner con università italiane per facilitare lo scambio accademico.",
+          "items": [
+            "Convenzioni attive",
+            "Programmi congiunti",
+            "Mobilità accademica"
+          ]
+        }
+      }
+    }
+  },
+  "LegalPage": {
+    "hero": {
+      "title": "Area Giuridica e Informativa",
+      "description": "Informazioni e orientamento sui diritti degli italo-brasiliani, cittadinanza, immigrazione e diritto di famiglia"
+    },
+    "disclaimer": {
+      "title": "Avviso Importante",
+      "text": "Questa pagina ha scopo puramente informativo ed educativo. Le informazioni qui presentate non costituiscono consulenza legale. Per casi specifici, si raccomanda di consultare avvocati specializzati."
+    },
+    "topics": {
+      "title": "Temi Informativi",
+      "subtitle": "Conosci i principali temi relativi ai diritti degli italo-brasiliani",
+      "categories": {
+        "citizenship": {
+          "title": "Cittadinanza Italiana",
+          "description": "Orientamenti generali sul processo di riconoscimento della cittadinanza italiana per i discendenti.",
+          "items": [
+            "Requisiti di base",
+            "Documentazione necessaria",
+            "Processo tramite consolato",
+            "Processo tramite comune in Italia",
+            "Tempi e fasi"
+          ]
+        },
+        "immigration": {
+          "title": "Immigrazione",
+          "description": "Informazioni sui processi migratori tra Brasile e Italia.",
+          "items": [
+            "Tipi di visti",
+            "Permesso di soggiorno",
+            "Lavoro in Italia",
+            "Residenza all'estero"
+          ]
+        },
+        "law": {
+          "title": "Logistica",
+          "description": "Nozioni generali sul sistema giuridico italiano e le sue particolarità.",
+          "items": [
+            "Sistema legale italiano",
+            "Diritti del cittadino",
+            "Accordi bilaterali",
+            "Trattati internazionali"
+          ]
+        },
+        "family": {
+          "title": "Diritto di Famiglia",
+          "description": "Orientamenti su questioni familiari riguardanti i cittadini italiani.",
+          "items": [
+            "Matrimonio con cittadino/a italiano/a",
+            "Divorzio internazionale",
+            "Affidamento dei figli",
+            "Successione ed eredità"
+          ]
+        }
+      }
+    },
+    "lectures": {
+      "title": "Conferenze con Esperti",
+      "description": "Periodicamente teniamo conferenze con avvocati specializzati in cittadinanza italiana, immigrazione e diritto di famiglia. Segui il nostro calendario eventi per partecipare."
+    }
+  },
+  "NewsPage": {
+    "hero": {
+      "title": "Notizie",
+      "description": "Segui le ultime novità della nostra associazione e della comunità italo-brasiliana"
+    },
+    "filters": {
+      "all": "Tutte"
+    },
+    "article": {
+      "readMore": "Leggi di più"
+    },
+    "empty": {
+      "title": "Nessuna notizia trovata",
+      "description": "Presto pubblicheremo delle novità"
+    }
+  },
+  "PoliciesPage": {
+    "hero": {
+      "title": "Politiche e Termini",
+      "subtitle": "Informazioni sulla privacy, i cookie e le condizioni d'uso del nostro sito"
+    },
+    "privacy": {
+      "title": "Informativa sulla Privacy",
+      "lastUpdate": "Ultimo aggiornamento: Gennaio 2026",
+      "introduction": "Il presente documento stabilisce le regole, le condizioni e le linee guida applicabili all'utilizzo del sito dell'Associazione di Promozione Interculturale Italo-Brasiliana, nonché descrive le modalità di trattamento dei dati personali, in conformità al Regolamento Generale sulla Protezione dei Dati (UE) 2016/679 – GDPR e alla normativa brasiliana LGPD.",
+      "sections": [
+        {
+          "title": "1. Titolare del Trattamento",
+          "content": "Il titolare del trattamento dei dati personali è l'Associazione di Promozione Interculturale Italo-Brasiliana, con sede in Av. São João, 313 - Centro, São Paulo/SP. E-mail: secretaria@garibaldidobrasil.org"
+        },
+        {
+          "title": "2. Definizioni",
+          "content": "Si applicano le definizioni previste dall'art. 4 del GDPR e dalla LGPD riguardanti dati personali, interessato, trattamento, titolare e responsabile del trattamento."
+        },
+        {
+          "title": "3. Dati Personali Raccolti",
+          "content": "I dati raccolti possono includere: Nome completo, e-mail, telefono, indirizzo IP, dati di navigazione e informazioni fornite tramite moduli. Non trattiamo dati sensibili se non strettamente necessario."
+        },
+        {
+          "title": "4. Finalità del Trattamento",
+          "content": "I dati sono trattati per: gestire i servizi del sito, rispondere alle richieste degli utenti, inviare comunicazioni (se autorizzati), adempiere obblighi di legge e migliorare l'experience utente."
+        },
+        {
+          "title": "5. Base Giuridica",
+          "content": "Il trattamento si basa sul consenso dell'interessato, sull'esecuzione di un contratto, sugli obblighi legali o sul legittimo interesse del titolare."
+        },
+        {
+          "title": "6. Condivisione dei Dati",
+          "content": "I dati possono essere condivisi con fornitori di servizi tecnologici, piattaforme di analisi/marketing e autorità competenti, nel rispetto delle norme di sicurezza."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Informativa sui Cookie",
+      "whatAre": "I cookie sono piccoli file memorizzati sul dispositivo dell'utente per garantire funzionalità essenziali e migliorare l'esperienza di navigazione.",
+      "types": {
+        "title": "Tipi di cookie utilizzati",
+        "items": [
+          "Cookie necessari: essenziali per il funzionamento del sito.",
+          "Cookie di prestazione: raccolgono informazioni statistiche sull'uso.",
+          "Cookie di funzionalità: permettono la personalizzazione della navigazione.",
+          "Cookie di marketing: utilizzati per la pubblicità, se applicabile."
+        ]
+      },
+      "management": "L'utente può configurare il proprio browser per rifiutare o eliminare i cookie in qualsiasi momento."
+    },
+    "terms": {
+      "title": "Termini di Utilizzo",
+      "sections": [
+        {
+          "title": "Uso Consentito",
+          "content": "L'utente si impegna a utilizzare il sito in modo lecito, etico e in conformità con la legislazione vigente."
+        },
+        {
+          "title": "Proprietà Intellettuale",
+          "content": "Tutti i contenuti (testi, immagini, marchi) sono protetti dai diritti di proprietà intellettuale. La riproduzione senza autorizzazione è vietata."
+        },
+        {
+          "title": "Limitazione di Responsabilità",
+          "content": "Il titolare non è responsabile per danni derivanti da guasti tecnici o dall'uso improprio delle informazioni da parte di terzi."
+        }
+      ]
+    }
+  },
+  "PartnersPage": {
+    "hero": {
+      "title": "I Nostri Partner",
+      "description": "Insieme promuovendo la cultura italo-brasiliana e rafforzando i legami tra Brasile e Italia"
+    },
+    "partners": {
+      "title": "Partner",
+      "subtitle": "Contiamo sul supporto di diverse istituzioni impegnate nella nostra missione",
+      "empty": "Nessun partner trovato"
+    },
+    "benefits": {
+      "title": "Benefici della Partnership",
+      "subtitle": "Diventa un partner e fai parte di questa trasformazione culturale",
+      "items": {
+        "collaboration": {
+          "title": "Collaborazione",
+          "description": "Lavoro congiunto su progetti culturali"
+        },
+        "networking": {
+          "title": "Networking",
+          "description": "Connessioni con la comunità italo-brasiliana"
+        },
+        "impact": {
+          "title": "Impatto Sociale",
+          "description": "Rafforzamento dei legami culturali"
+        },
+        "visibility": {
+          "title": "Visibilità",
+          "description": "Esposizione alla comunità internazionale"
+        }
+      }
+    },
+    "cta": {
+      "title": "Diventa Nostro Partner",
+      "description": "Unisciti a noi na missão de promover a cultura ítalo-brasileira",
+      "button": "Contattaci"
+    }
+  },
+  "AssistancePage": {
+    "hero": {
+      "title": "Come Possiamo Aiutare?",
+      "subtitle": "Scegli l'area di assistenza di cui hai bisogno"
+    },
+    "services": {
+      "social": {
+        "title": "Supporto Sociale e Comunitario",
+        "description": "Orientamento e supporto per i nuovi arrivati, integrazione comunitaria e supporto consolare"
+      },
+      "legal": {
+        "title": "Area Giuridica e Informativa",
+        "description": "Informazioni sulla cittadinanza italiana, sui diritti degli italo-brasiliani e orientamento legale"
+      },
+      "access": "Accedi"
+    },
+    "others": {
+      "title": "Hai bisogno di altri servizi?",
+      "description": "Oltre all'assistenza sociale e legale, offriamo corsi di italiano, eventi culturali e opportunità networking",
+      "courses": "Vedi Corsi",
+      "events": "Eventi Culturali",
+      "networking": "Networking"
+    }
+  },
+  "JoinPage": {
+    "hero": {
+      "title": "Diventa Socio",
+      "description": "Entra a far parte dell'Associazione di Scambio Culturale Italo-Brasiliana Anita e Giuseppe Garibaldi e rafforza i tuoi legami con la cultura italiana"
+    },
+    "benefits": {
+      "community": {
+        "title": "Comunità",
+        "description": "Entra a far parte di una rete di discendenti e ammiratori della cultura italiana"
+      },
+      "education": {
+        "title": "Formazione",
+        "description": "Accesso a corsi di italiano e conferenze esclusive"
+      },
+      "support": {
+        "title": "Supporto",
+        "description": "Supporto per questioni consolari e integrazione"
+      },
+      "networking": {
+        "title": "Networking",
+        "description": "Contatti con imprenditori e professionisti"
+      }
+    },
+    "form": {
+      "title": "Inserisci i tuoi dati",
+      "description": "Completa il modulo sottostante per diventare socio",
+      "fields": {
+        "name": {
+          "label": "Nome *",
+          "placeholder": "Inserisci il tuo nome completo",
+          "error": "Il nome è obbligatorio"
+        },
+        "email": {
+          "label": "E-mail *",
+          "placeholder": "tua@email.com",
+          "error": "E-mail non valida"
+        },
+        "phone": {
+          "label": "Telefono *",
+          "placeholder": "(11) 99999-9999",
+          "error": "Il telefono è obbligatorio"
+        },
+        "address": {
+          "label": "Indirizzo *",
+          "placeholder": "Via, numero, complemento",
+          "error": "L'indirizzo è obbligatorio"
+        },
+        "city": {
+          "label": "Città *",
+          "placeholder": "Città",
+          "error": "La città è obbligatoria"
+        },
+        "state": {
+          "label": "Stato *",
+          "placeholder": "UF",
+          "error": "Lo Stato è obbligatorio"
+        },
+        "zipCode": {
+          "label": "CAP *",
+          "placeholder": "00000-000",
+          "error": "Il CAP è obbligatorio"
+        }
+      },
+      "terms": {
+        "text": "Ho letto e accetto i ",
+        "link": "termini di utilizzo",
+        "and": " e l'",
+        "privacy": "informativa sulla privacy"
+      },
+      "submit": "Invia"
+    }
+  }
+}

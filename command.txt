@@ -1,0 +1,1 @@
+node -e "JSON.parse(require('fs').readFileSync('messages/pt.json', 'utf8'))" && node -e "JSON.parse(require('fs').readFileSync('messages/it.json', 'utf8'))" && node -e "JSON.parse(require('fs').readFileSync('messages/es.json', 'utf8'))"
