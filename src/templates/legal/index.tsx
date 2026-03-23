@@ -8,10 +8,19 @@ import {
   PlaneIcon,
   ScaleIcon,
   UsersIcon,
+  WrenchIcon,
 } from "lucide-react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import { LegalSection } from "./sections";
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "@/components/ui/empty";
 
 export function LegalPage() {
   const t = useTranslations("LegalPage");
@@ -103,7 +112,19 @@ export function LegalPage() {
         </div>
       </section>
 
-      <LegalSection />
+      <Empty>
+        <EmptyHeader>
+          <EmptyMedia variant="icon">
+            <WrenchIcon />
+          </EmptyMedia>
+          <EmptyTitle>Esta página está em desenvolvimento</EmptyTitle>
+          <EmptyDescription>
+            Desfrute de mais informações navegando em outra páginas
+          </EmptyDescription>
+        </EmptyHeader>
+      </Empty>
+
+      {/* <LegalSection /> */}
     </div>
   );
 }
