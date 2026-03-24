@@ -19,7 +19,6 @@ const navItems = [
   { label: "Sobre", path: "/about", flag: "about" },
   { label: "Cultura", path: "/culture", flag: "culture" },
   { label: "Cursos", path: "/courses", flag: "courses" },
-  // { label: "Apoio", path: "/support", flag: "support" },
   { label: "Networking", path: "/networking", flag: "networking" },
   { label: "Parceiros", path: "/partners", flag: "partners" },
   { label: "Assistência", path: "/assistance", flag: "assistance" },
@@ -119,9 +118,9 @@ export function Header() {
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             >
               {mobileMenuOpen ? (
-                <XIcon className="w-6 h-6" />
+                <XIcon className="size-6" />
               ) : (
-                <MenuIcon className="w-6 h-6" />
+                <MenuIcon className="size-6" />
               )}
             </Button>
           </div>

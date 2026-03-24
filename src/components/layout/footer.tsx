@@ -136,7 +136,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MailIcon className="w-5 h-5 text-emerald-500 shrink-0 mt-0.5" />
                 <span className="text-gray-400 text-sm">
-                  anitaegiuseppegaribaldi@gmail.com
+                  contato@anitaegiuseppegaribaldi.com.br
                 </span>
               </li>
             </ul>

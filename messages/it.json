@@ -381,7 +381,8 @@
           "Supporto familiare",
           "Networking professionale"
         ]
-      }
+      },
+      "button": "Diventa socio"
     },
     "contact": {
       "title": "Come Possiamo Aiutare",
@@ -464,6 +465,7 @@
     "topics": {
       "title": "Temi Informativi",
       "subtitle": "Conosci i principali temi relativi ai diritti degli italo-brasiliani",
+      "button": "Diventa socio",
       "categories": {
         "citizenship": {
           "title": "Cittadinanza Italiana",

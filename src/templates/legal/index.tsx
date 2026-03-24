@@ -21,6 +21,8 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "@/components/ui/empty";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 export function LegalPage() {
   const t = useTranslations("LegalPage");
@@ -123,6 +125,12 @@ export function LegalPage() {
           </EmptyDescription>
         </EmptyHeader>
       </Empty>
+
+      <div className="flex justify-center mt-10">
+        <Button size="lg">
+          <Link href="/join?origin=legal#form">{t("topics.button")}</Link>
+        </Button>
+      </div>
 
       {/* <LegalSection /> */}
     </div>

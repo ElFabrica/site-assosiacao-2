@@ -1,4 +1,5 @@
 "use client";
+import { Button } from "@/components/ui/button";
 import {
   BriefcaseIcon,
   FileTextIcon,
@@ -10,6 +11,7 @@ import {
 } from "lucide-react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export function SupportPage() {
   const t = useTranslations("SupportPage");
@@ -130,6 +132,12 @@ export function SupportPage() {
               </motion.div>
             ))}
           </div>
+        </div>
+
+        <div className="flex justify-center mt-10">
+          <Button size="lg">
+            <Link href="/join?origin=support#form">{t("services.button")}</Link>
+          </Button>
         </div>
       </section>
 
