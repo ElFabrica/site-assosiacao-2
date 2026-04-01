@@ -24,6 +24,8 @@ export async function generateMetadata({
 
   const article = newDetail.docs[0];
 
+  console.log("Article", article);
+
   if (!article) {
     return {};
   }
@@ -32,6 +34,9 @@ export async function generateMetadata({
     title: article.title,
     description: article.excerpt,
     robots: "index, follow",
+    metadataBase: new URL(
+      process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3001",
+    ),
     openGraph: {
       images: [article.coverImage?.url || ""],
     },

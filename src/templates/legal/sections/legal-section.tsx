@@ -18,57 +18,18 @@ export function LegalSection() {
 
   const topics = [
     {
-      icon: FileCheckIcon,
-      title: t("topics.categories.citizenship.title"),
-      description: t("topics.categories.citizenship.description"),
+      icon: PlaneIcon,
+      title: t("topics.categories.visas.title"),
+      description: t("topics.categories.visas.description"),
       items: [
-        t("topics.categories.citizenship.items.0"),
-        t("topics.categories.citizenship.items.1"),
-        t("topics.categories.citizenship.items.2"),
-        t("topics.categories.citizenship.items.3"),
-        t("topics.categories.citizenship.items.4"),
+        t("topics.categories.visas.items.0"),
+        t("topics.categories.visas.items.1"),
+        t("topics.categories.visas.items.2"),
+        t("topics.categories.visas.items.3"),
+        t("topics.categories.visas.items.4"),
       ],
       color: "bg-blue-500",
       bgColor: "bg-blue-50",
-    },
-    {
-      icon: PlaneIcon,
-      title: t("topics.categories.immigration.title"),
-      description: t("topics.categories.immigration.description"),
-      items: [
-        t("topics.categories.immigration.items.0"),
-        t("topics.categories.immigration.items.1"),
-        t("topics.categories.immigration.items.2"),
-        t("topics.categories.immigration.items.3"),
-      ],
-      color: "bg-emerald-500",
-      bgColor: "bg-emerald-50",
-    },
-    {
-      icon: BriefcaseIcon,
-      title: t("topics.categories.law.title"),
-      description: t("topics.categories.law.description"),
-      items: [
-        t("topics.categories.law.items.0"),
-        t("topics.categories.law.items.1"),
-        t("topics.categories.law.items.2"),
-        t("topics.categories.law.items.3"),
-      ],
-      color: "bg-purple-500",
-      bgColor: "bg-purple-50",
-    },
-    {
-      icon: UsersIcon,
-      title: t("topics.categories.family.title"),
-      description: t("topics.categories.family.description"),
-      items: [
-        t("topics.categories.family.items.0"),
-        t("topics.categories.family.items.1"),
-        t("topics.categories.family.items.2"),
-        t("topics.categories.family.items.3"),
-      ],
-      color: "bg-pink-500",
-      bgColor: "bg-pink-50",
     },
   ];
 

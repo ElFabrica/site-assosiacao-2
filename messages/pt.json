@@ -465,45 +465,15 @@
       "subtitle": "Conheça os principais temas relacionados aos direitos de ítalo-brasileiros",
       "button": "Associe-se",
       "categories": {
-        "citizenship": {
-          "title": "Cidadania Italiana",
-          "description": "Orientações gerais sobre o processo de reconhecimento da cidadania italiana para descendentes.",
+        "visas": {
+          "title": "Vistos",
+          "description": "Oferecemos suporte especializado para todos os tipos de vistos e autorizações de residência:",
           "items": [
-            "Requisitos básicos",
-            "Documentação necessária",
-            "Processo via consulado",
-            "Processo via comune na Itália",
-            "Prazos e etapas"
-          ]
-        },
-        "immigration": {
-          "title": "Imigração",
-          "description": "Informações sobre processos imigratórios entre Brasil e Itália.",
-          "items": [
-            "Tipos de visto",
-            "Permesso di soggiorno",
-            "Trabalho na Itália",
-            "Residência no exterior"
-          ]
-        },
-        "law": {
-          "title": "Logística",
-          "description": "Noções gerais sobre o sistema jurídico italiano e suas particularidades.",
-          "items": [
-            "Sistema legal italiano",
-            "Direitos do cidadão",
-            "Acordos bilaterais",
-            "Tratados internacionais"
-          ]
-        },
-        "family": {
-          "title": "Direito de Família",
-          "description": "Orientações sobre questões familiares envolvendo cidadãos italianos.",
-          "items": [
-            "Casamento com italiano(a)",
-            "Divórcio internacional",
-            "Guarda de filhos",
-            "Sucessão e herança"
+            "Visto de estudos",
+            "Visto de trabalho",
+            "Autorização de residência",
+            "Investimento",
+            "Reagrupamento familiar"
           ]
         }
       }

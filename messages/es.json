@@ -471,45 +471,15 @@
       "subtitle": "Conozca los principales temas relacionados con los derechos de los ítalo-brasileños",
       "button": "Asóciate ahora",
       "categories": {
-        "citizenship": {
-          "title": "Ciudadanía Italiana",
-          "description": "Orientación general sobre el proceso de reconocimiento de la ciudadanía italiana para descendientes.",
+        "visas": {
+          "title": "Visados",
+          "description": "Ofrecemos soporte especializado para todo tipo de visados y autorizaciones de residencia:",
           "items": [
-            "Requisitos básicos",
-            "Documentación necesaria",
-            "Proceso vía consulado",
-            "Proceso vía comune en Italia",
-            "Plazos y etapas"
-          ]
-        },
-        "immigration": {
-          "title": "Inmigración",
-          "description": "Información sobre los procesos migratorios entre Brasil e Italia.",
-          "items": [
-            "Tipos de visado",
-            "Permesso di soggiorno",
-            "Trabajo en Italia",
-            "Residencia en el extranjero"
-          ]
-        },
-        "law": {
-          "title": "Logística",
-          "description": "Nociones generales sobre el sistema jurídico italiano y sus particularidades.",
-          "items": [
-            "Sistema legal italiano",
-            "Derechos del ciudadano",
-            "Acuerdos bilaterales",
-            "Tratados internacionales"
-          ]
-        },
-        "family": {
-          "title": "Derecho de Familia",
-          "description": "Orientación sobre cuestiones familiares que involucran a ciudadanos italianos.",
-          "items": [
-            "Matrimonio con italiano(a)",
-            "Divorcio internacional",
-            "Custodia de hijos",
-            "Sucesión y herencia"
+            "Visado de estudios",
+            "Visado de trabajo",
+            "Autorización de residencia",
+            "Inversión",
+            "Reagrupación familiar"
           ]
         }
       }

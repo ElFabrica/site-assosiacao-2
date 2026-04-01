@@ -467,45 +467,15 @@
       "subtitle": "Conosci i principali temi relativi ai diritti degli italo-brasiliani",
       "button": "Diventa socio",
       "categories": {
-        "citizenship": {
-          "title": "Cittadinanza Italiana",
-          "description": "Orientamenti generali sul processo di riconoscimento della cittadinanza italiana per i discendenti.",
+        "visas": {
+          "title": "Visti",
+          "description": "Offriamo supporto specializzato per tutti i tipi di visti e permessi di soggiorno:",
           "items": [
-            "Requisiti di base",
-            "Documentazione necessaria",
-            "Processo tramite consolato",
-            "Processo tramite comune in Italia",
-            "Tempi e fasi"
-          ]
-        },
-        "immigration": {
-          "title": "Immigrazione",
-          "description": "Informazioni sui processi migratori tra Brasile e Italia.",
-          "items": [
-            "Tipi di visti",
+            "Visto per studio",
+            "Visto per lavoro",
             "Permesso di soggiorno",
-            "Lavoro in Italia",
-            "Residenza all'estero"
-          ]
-        },
-        "law": {
-          "title": "Logistica",
-          "description": "Nozioni generali sul sistema giuridico italiano e le sue particolarità.",
-          "items": [
-            "Sistema legale italiano",
-            "Diritti del cittadino",
-            "Accordi bilaterali",
-            "Trattati internazionali"
-          ]
-        },
-        "family": {
-          "title": "Diritto di Famiglia",
-          "description": "Orientamenti su questioni familiari riguardanti i cittadini italiani.",
-          "items": [
-            "Matrimonio con cittadino/a italiano/a",
-            "Divorzio internazionale",
-            "Affidamento dei figli",
-            "Successione ed eredità"
+            "Investimento",
+            "Ricongiungimento familiare"
           ]
         }
       }
