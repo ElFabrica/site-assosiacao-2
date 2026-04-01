@@ -1,5 +1,6 @@
 "use client";
 
+import { Button } from "@/components/ui/button";
 import {
   AlertCircleIcon,
   BookOpenIcon,
@@ -12,6 +13,7 @@ import {
 } from "lucide-react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export function LegalSection() {
   const t = useTranslations("LegalPage");
@@ -102,6 +104,12 @@ export function LegalSection() {
           </div>
         </div>
       </section>
+
+      <div className="flex justify-center my-10">
+        <Button size="lg">
+          <Link href="/join?origin=legal#form">{t("topics.button")}</Link>
+        </Button>
+      </div>
 
       {/* Lectures */}
       <section className="py-14 bg-gray-50">

@@ -1,28 +1,9 @@
 "use client";
 
-import {
-  AlertCircleIcon,
-  BookOpenIcon,
-  CheckCircleIcon,
-  FileCheckIcon,
-  PlaneIcon,
-  ScaleIcon,
-  UsersIcon,
-  WrenchIcon,
-} from "lucide-react";
+import { ScaleIcon } from "lucide-react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import { LegalSection } from "./sections";
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@/components/ui/empty";
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
 
 export function LegalPage() {
   const t = useTranslations("LegalPage");
@@ -71,12 +52,6 @@ export function LegalPage() {
       </Empty> */}
 
       <LegalSection />
-
-      <div className="flex justify-center mt-10">
-        <Button size="lg">
-          <Link href="/join?origin=legal#form">{t("topics.button")}</Link>
-        </Button>
-      </div>
     </div>
   );
 }
