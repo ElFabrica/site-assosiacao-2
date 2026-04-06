@@ -25,9 +25,15 @@ export async function generateMetadata({
     return {};
   }
 
+  console.log("Event", event);
+
   return {
     title: event.name,
     description: event.description,
+    robots: "index, follow",
+    metadataBase: new URL(
+      process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3001",
+    ),
     openGraph: {
       images: [event.coverImage?.url || ""],
     },

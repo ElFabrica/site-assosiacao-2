@@ -24,8 +24,6 @@ export async function generateMetadata({
 
   const article = newDetail.docs[0];
 
-  console.log("Article", article);
-
   if (!article) {
     return {};
   }
